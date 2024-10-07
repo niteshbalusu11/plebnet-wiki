@@ -24,7 +24,7 @@ To enable reconnecting disconnected peers, you can run this every 3-6 hours. The
 0 */4 * * * /usr/bin/timeout -s 2 300 /usr/bin/bos reconnect >/tmp/cron1.log 2>&1; date >> /tmp/cron1.log
 ```
 
-RaspiBliz users may have to use this instead. Please double-check that path to bos is correct `which bos`. Install to cron using bos user (one which is used to run bos).
+RaspiBlitz users may have to use this instead. Please double-check that path to bos is correct `which bos`. Install to cron using bos user (one which is used to run bos).
 
 ```
 0 */4 * * * /usr/bin/timeout -s 2 300 /home/bos/.npm-global/bin/bos reconnect >/tmp/cron1.log 2>&1; date >> /tmp/cron1.log
