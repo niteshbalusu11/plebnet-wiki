@@ -8,6 +8,7 @@
 - Every page has an `Edit this page` button at the bottom of the page, that can be used to open Github and modify the page and submit a Pull Request.
 - [Docusaurus](https://docusaurus.io/) uses Markdown format for parsing documents, please look at the `Docs` directory on the [Repository](https://github.com/niteshbalusu11/plebnet-wiki) that shows examples on how the website is formatted.
 - To add a new document, simply fork the repo, and add a new document in category you want to contribute and submit a pull request.
+- Learn more about [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) here.
 - If you need help with contribution and new to using GitHub, feel free to reach out to me on telegram [@nitesh_btc](https://t.me/nitesh_btc).
 - NOTE: I don't DM anyone, please be aware of scammers!
 
