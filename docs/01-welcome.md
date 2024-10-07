@@ -32,7 +32,7 @@ Follow these articles in order to gain a better understanding of the steps requi
 ## Contributing
 - This guide is built using [Docusaurus](https://docusaurus.io/) and [NodeJS](https://nodejs.org/en).
 - Every page has an `Edit this page` button at the bottom of the page, that can be used to open Github and modify the page and submit a Pull Request.
-- [Docusaurus](https://docusaurus.io/) uses Markdown format for parsing documents, please look at the `Docs` on the [Repository](https://github.com/niteshbalusu11/plebnet-wiki)that shows examples on how the website is formatted.
+- [Docusaurus](https://docusaurus.io/) uses Markdown format for parsing documents, please look at the `Docs` on the [Repository](https://github.com/niteshbalusu11/plebnet-wiki) that shows examples on how the website is formatted.
 - To add a new document, simply fork the repo, and add a new document in category you want to contribute.
 
 ### Local Development
