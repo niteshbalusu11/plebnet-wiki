@@ -16,7 +16,7 @@ To do that:
 
 1. In umbrel dashboard - bitcoin wallet - select deposit. It will generate a new address. Copy that.
 2. In umbrel dashboard - bitcoin wallet - select withdraw. Paste the address generated in step 1 above here and choose the amount 100000 Sats.
-3. Select low fee 1 Sat/Vb and send. It will create a UTXO of 100K Sats on your node which will be used for Anchor Channels once there is at least 1 on-chain confirmation of this transaction.
+3. Select appropriate fees according to [mempool.space](https://mempool.space) and send. It will create a UTXO of 100K Sats on your node which will be used for Anchor Channels once there is at least 1 on-chain confirmation of this transaction.
 
 ## Find Nodes in PLEBNET Telegram Group
 
@@ -24,7 +24,7 @@ You may want to check out [Lightning Routing: The First 30 Days](https://youtu.b
 
 Otherwise, you'll need to find some other nodes in PLEBNET to open channels with.
 
-- Go to [Mempool.space](https://mempool.space/lightning) to see the current visual graph of nodes.
+- Go to [mempool.space](https://mempool.space/lightning) to see the current visual graph of nodes.
 - You can contact plebs from the graph or list and see if they'd like to open a channel.
 - You can also just ask in the PLEBNET channel if anyone is interested in opening a channel with you.
 
@@ -34,7 +34,7 @@ For two-way routing, required to both send and receive sats, you need a good bal
 
 ### Keep It Girthy
 
-It's best to have fewer big channels with more sats than it is to have many smaller ones. The recommended minimum channel size is 2 million sats, which will cost you 1 million sats per channel if you are trying to have an even balance of inbound and outbound liquidity.
+It's best to have fewer big channels with more sats than it is to have many smaller ones. The recommended minimum channel size is 2 million sats, which will "cost" you 1 million sats per channel if you are trying to have an even balance of inbound and outbound liquidity.
 
 ### Balanced Channels
 
@@ -62,11 +62,11 @@ In some other versions, the swap is executed as below:
 
 #### MEG (aka: 'trustless' dual-funded channel) - Mutually Exchanged Girth
 
-With the support for internal funding added, adding balanced channel is now a piece of cake. All you need is a willing peer.
+With the support for internal funding added, adding balanced channel is now a piece of cake. All you need is a willing peer on PLETNET or take a look at [lightningnetwork.plus](https://lightningnetwork.plus/swaps) to find dual-funded opening requests.
 
 Alex Bosworth's CLI tool, Balance of Satoshis utilizes keysend to add this functionality to LND (which does not natively support it, yet).
 
-Please ensure that your boss 10.10.2 or higher and node.js/npm software is up to date before attempting this.
+Please ensure that your BoS version is up to date before attempting this.
 
 Pre-req: Make sure NODE 1 and NODE 2 have keysend enabled (this is the default for Umbrel) and at least 1 channel already established to integrate you into the lightning network (you need a path out for key send to new peering node for the whole process to work).
 
