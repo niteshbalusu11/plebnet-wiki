@@ -1,5 +1,7 @@
 # Opening Channels and Adding Liquidity in PLEBNET
 
+Learn about opening channels and liquidity.
+
 ## Add Liquidity
 
 Generate a Lightning wallet and add some funds so that you can open channels. Keep in mind that PLEBNET prefers girthy channels, so fund your node accordingly.

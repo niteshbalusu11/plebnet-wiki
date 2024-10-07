@@ -1,5 +1,7 @@
 # Maintaining Node Hygiene
 
+- Learn some tips about node hygiene.
+
 ## Table of Contents
 1. [Keep Your Node Online](#keep-your-node-online)
 2. [Setting cron jobs](#setting-cron-jobs)

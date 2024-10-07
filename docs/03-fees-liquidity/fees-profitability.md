@@ -1,5 +1,7 @@
 # Fees And Profitability
 
+Learn about routing fees and node profitability.
+
 ## Table of Contents
 
 1. [Intro](#intro)

@@ -1,5 +1,7 @@
 # Getting Inbound Liquidity
 
+- Understanding inbound liquidity and acquiring it.
+
 ## Intro
 
 Your lightning network (LN) channels have sats (i.e. satoshi, 1×10^-8^ Bitcoins) on your local side or the remote side of the channel.

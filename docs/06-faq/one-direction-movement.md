@@ -1,5 +1,7 @@
 # Help! My sats are only moving in one direction
 
+Fucking drains and sinks! 🤬
+
 ### Intro
 
 A common noob question is why their sats are only moving in one direction on a big node channel (say ACINQ or BFX or even LOOP)

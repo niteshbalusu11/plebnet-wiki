@@ -1,5 +1,7 @@
 # Balancing Nodes
 
+Learn about liquidity balancing.
+
 ## Intro
 
 Most new NodeRunners struggle with the concept of balancing the node and channel and in the process, they end up being too fixated on rebalancing and targeting that magic 50:50 balance on each and every channel at tremendous cost and frustration. If your inbound-outbound it is mathematically impossible to achieve 50:50 split on every channel so stop wasting time and sats on obsessive rebalancing.

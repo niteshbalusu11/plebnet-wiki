@@ -1,5 +1,7 @@
 # Help! I do not see any routing through my node
 
+I don't see any routing activity! 🙁
+
 ## Intro
 
 WARNING: Running a routing node is not for generating a primary source of income. The lightning technology is still developing at a very fast pace. The strategy which may generate some income would stop working very soon and something else will take their place. Do not commit more than what you can have fun with when you enter the rabbit hole of a routing node.
