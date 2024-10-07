@@ -33,7 +33,6 @@ In fact, it can be said inbound liquidity is easier to get than outbound liquidi
 ## Resources for Getting Inbound Liquidity
 
 - Make a payment to someone, buy something from a merchant, make a donation to a charity or project which accepts Lightning payment. All of these will move sats from your local to remote and you will naturally get a balanced channel.
-- **Get a channel from BCash is trash** Make sure you have a node alias (visible on graph - check [amboss](https://amboss.space/)), have public channels open and have 2-4M capacity, Add BCash_Is_Trash `0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f` or `0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f@73.119.255.56:9735` as a peer (do not open channel). They might open channel to you.
 
 This information can change and each method and service should be always be carefully reviewed before use.
 
@@ -42,12 +41,9 @@ This information can change and each method and service should be always be care
 #### Services who sell inbound
 
 - **Amboss Magma** - [https://amboss.space/magma](https://amboss.space/magma)
-- **ZeroFeeRouting** - [https://amboss.space/node/038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5](https://amboss.space/node/038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5)
 - **LNBIG** - [https://lnbig.com/](https://lnbig.com/)
 - **Bitrefill** - [https://www.bitrefill.com/buy/lightning-channel/](https://www.bitrefill.com/buy/lightning-channel/)
 - **Y'alls** - [https://yalls.org/about/](https://yalls.org/about/)
-- **LN2Me** - [https://ln2me.com/](https://ln2me.com/)
-- **Lightning Conductor** - [https://mainnet.lightningconductor.net/](https://mainnet.lightningconductor.net/) Lightning Conductor - They may open a channel back to you if you open 500K channel to them.
 - **Umbrel Opening Channel Request** - [https://community.getumbrel.com/t/opening-channels-requests/66](https://community.getumbrel.com/t/opening-channels-requests/66) Umbrel Opening Channel Requests
 - **Sats4Likes** - You can offer to pay someone to open a channel to you on services like - [https://kriptode.com/satsforlikes/index.html](https://kriptode.com/satsforlikes/index.html)
 
@@ -84,6 +80,7 @@ This information can change and each method and service should be always be care
 
 - **Wallet of Satoshi** - [https://www.walletofsatoshi.com/](https://www.walletofsatoshi.com/)
 - **Blixt** - [https://blixtwallet.github.io/](https://blixtwallet.github.io/)
+- **Zeus** - [https://zeusln.com/](https://zeusln.com/)
 - **Breez** - [https://breez.technology/](https://breez.technology/)
 - **Phoenix** - [https://phoenix.acinq.co/](https://phoenix.acinq.co/)
 - **Muun** - [https://muun.com/](https://muun.com/)
