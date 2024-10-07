@@ -37,7 +37,7 @@ Follow these articles in order to gain a better understanding of the steps requi
 
 ### Local Development
 - If you want to change styling or anything significant you need to do some local development.
-- To get started install [NodeJS](Bun)
+- To get started install [NodeJS](https://nodejs.org/en)
 
 ```
 # Clone the repo
