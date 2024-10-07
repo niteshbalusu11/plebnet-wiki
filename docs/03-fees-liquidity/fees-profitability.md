@@ -22,7 +22,7 @@ Learn about routing fees and node profitability.
 
 ## Intro
 
-WARNING: Running a routing node is not for generating a primary source of income. The lightning technology is still developing at a very fast pace. The strategy which may generate some income would stop working very soon and something else will take their place. Do not commit more than you what you can have fun with when you enter the rabbit hole of a routing node.
+WARNING: Running a routing node is not for generating a primary source of income. The lightning technology is still developing at a very fast pace. The strategy which may generate some income would stop working very soon and something else will take their place. Do not commit more than what you can have fun with when you enter the rabbit hole of a routing node.
 
 Having said that, most people enter the rabbit hole of a routing node to have fun but also generate some income, however small. The excitement to watch the first route pass through your node with 1 Sat fees is an amazing moment for many.
 
@@ -49,7 +49,7 @@ You should aim to recover the cost of capital expenditures over the useful life 
    - Electricity Cost
    - Network Bandwidth Cost
 
-Against these costs, you will earn routing fees as Income. If you offer other services via your node, you might have additional income.
+Against these costs, you will earn routing fees as income. If you offer other services via your node, you might have additional income.
 
 You should measure the profitability of your node as below:
 
