@@ -25,4 +25,4 @@ The companion Telegram channel PLEBNET Library contains high quality materials c
 
 ## Nodes with 2 channels or more
 
-Also join the NODERUNNERS group. Contact Walton [@AEHW1](https://t.me/AEHW1) to get added.
+Also join the private NODERUNNERS Telegram group. Contact Walton [@AEHW1](https://t.me/AEHW1) to get added.
