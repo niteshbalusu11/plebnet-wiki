@@ -1,12 +1,6 @@
 # Help! My sats are only moving in one direction
 
-## Contents
-1. [Intro](#intro)
-   1.1 [Classic Mistake](#classic-mistake)
-   1.2 [So why Sats are moving into remote never coming back](#so-why-sats-are-moving-into-remote-never-coming-back)
-   1.3 [Don't blame the peer](#dont-blame-the-peer)
-
-## Intro
+### Intro
 
 A common noob question is why their sats are only moving in one direction on a big node channel (say ACINQ or BFX or even LOOP)
 
@@ -46,7 +40,7 @@ BFX is likely to be connected to most wallet providers directly from their node,
 
 What can you do to slow down?
 
-Set your fees reasonably. The first thing change your default lnd configuration to set up high fees when you create a channel. See [here](Special:MyLanguage/LND_Configuration_Settings#Opening_Channel_With_Predefined_Fees) for details.
+Set your fees reasonably. The first thing change your default lnd configuration to set up high fees when you create a channel. See [Fees & Liquidity](/category/fees-and-liquidity) for details.
 
 Then gradually lower the fees, maybe 10% a day until you start seeing traffic routing via your node. Establish a good fees level that generates a reasonable amount of traffic and at the same time allows you to recoup your costs of rebalancing and setting up the channel.
 
