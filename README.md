@@ -1,7 +1,7 @@
 # Plebnet-wiki
 
 ## Contributing
-- This guide is built using [Docusaurus](https://docusaurus.io/) and [Bun](https://bun.sh/).
+- This guide is built using [Docusaurus](https://docusaurus.io/) and [NodeJS](https://nodejs.org/en).
 - Every page has an `Edit this page` button at the bottom of the page, that can be used to open Github and modify the page and submit a Pull Request.
 - [Docusaurus](https://docusaurus.io/) uses Markdown format for parsing documents, please look at the `Docs` on the [Repository](https://github.com/niteshbalusu11/plebnet-wiki)that shows examples on how the website is formatted.
 - To add a new document, simply fork the repo, and add a new document in category you want to contribute and submit a pull request.
@@ -10,7 +10,7 @@
 
 ### Local Development
 - If you want to change styling or anything significant you need to do some local development.
-- To get started install [Bun](https://bun.sh/)
+- To get started install [NodeJS](https://nodejs.org/en)
 
 ```
 # Clone the repo
@@ -20,8 +20,8 @@ git clone https://github.com/niteshbalusu11/plebnet-wiki
 cd plebnet-wiki
 
 # Install dependencies
-bun install
+npm install
 
 # Run locally
-bun run start
+npm run start
 ```
