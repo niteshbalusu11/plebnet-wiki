@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'PlebnetWiki',
   tagline: 'Bitcoin and Lightning Wiki',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon_io/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://plebnetwiki.com',
