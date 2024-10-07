@@ -1,5 +1,8 @@
 # Plebnet-wiki
 
+## Welcome to PLEBNET!
+<img src="https://pbs.twimg.com/profile_images/1433194445038657537/WF9g0amV_400x400.jpg" alt="PLEBNET Logo" width="200" height="200"></img>
+
 ## Contributing
 - This guide is built using [Docusaurus](https://docusaurus.io/) and [NodeJS](https://nodejs.org/en).
 - Every page has an `Edit this page` button at the bottom of the page, that can be used to open Github and modify the page and submit a Pull Request.
