@@ -1,0 +1,8 @@
+{
+  "label": "Fees and Liquidity",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn more about fees and liquidity management. The hardest part about running a node!"
+  }
+}

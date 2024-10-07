@@ -1,0 +1,8 @@
+{
+  "label": "Hygiene and Security",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn more about how to secure your node and good practices."
+  }
+}
