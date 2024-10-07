@@ -23,6 +23,6 @@ PLEBNET discussion and coordination happens on the Telegram chat platform.
 Download the [Telegram](https://telegram.org/) app and join the [PLEBNET](https://t.me/plebnet/) group.
 The companion Telegram channel PLEBNET Library contains high quality materials collected from chat group traffic.
 
-## Node with 2 channels or more
+## Nodes with 2 channels or more
 
-Also join the NODE RUNNER group. @mention Walton to add you to the other group as well.
+Also join the NODERUNNERS group. Contact Walton [@AEHW1](https://t.me/AEHW1) to get added.
