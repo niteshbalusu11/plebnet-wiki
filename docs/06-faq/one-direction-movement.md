@@ -42,7 +42,7 @@ BFX is likely to be connected to most wallet providers directly from their node,
 
 What can you do to slow down?
 
-Set your fees reasonably. The first thing change your default lnd configuration to set up high fees when you create a channel. See [Fees & Liquidity](/category/fees-and-liquidity) for details.
+Set your fees reasonably. The first thing is to change your default lnd configuration to set up high fees when you create a channel. See [Fees & Liquidity](/category/fees-and-liquidity) for details.
 
 Then gradually lower the fees, maybe 10% a day until you start seeing traffic routing via your node. Establish a good fees level that generates a reasonable amount of traffic and at the same time allows you to recoup your costs of rebalancing and setting up the channel.
 

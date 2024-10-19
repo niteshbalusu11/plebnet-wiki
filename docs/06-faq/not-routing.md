@@ -28,11 +28,11 @@ If you are selling ice cream on the north pole, chances are you will not have a 
 
 - Understand the flow
 
-See who are you connected to. Are you connected to a Merchant or a Consumer? If yes, how is their volume and who else is connected to them. If there are cheaper connections to that merchant, chances are the flows will go via them. If you are charging excessive fees to outgoing channels on your node, chances are your consumers are using someone else to send their payments.
+See who are you connected to. Are you connected to a Merchant or a Consumer? If yes, how is their volume and who else is connected to them? If there are cheaper connections to that merchant, chances are the flows will go via them. If you are charging excessive fees to outgoing channels on your node, chances are your consumers are using someone else to send their payments.
 
-If you are connected to mainly other routers, check what sort of fees are they charging? If you are surrounded by all expensive nodes, chances are no one will route through you because you even if you charge less, the eventual cost is high for the sender.
+If you are connected to mainly other routers, check what sort of fees are they charging? If you are surrounded by all expensive nodes, chances are no one will route through you because even if you charge less, the eventual cost is high for the sender.
 
-Investigate your peers, set your fees appropriately, and if you see a path which is expensive, you can try to establish and provider a cheaper alternative to that destination and routes will start using your node.
+Investigate your peers, set your fees appropriately, and if you see a path which is expensive, you can try to establish and provide a cheaper alternative to that destination and routes will start using your node.
 
 - Manage your Fees
 
@@ -43,4 +43,4 @@ See here [FeesAndProfitability](Special:MyLanguage/FeesAndProfitability)
 See here [Balancing_Nodes](Special:MyLanguage/Balancing_Nodes)
 If you are in the path of two way traffic, you are in a good position and you do not need to do much for rebalancing.
 
-If not you are required to replenish our local balance to service the flow. You must do that on a cash positive basis i.e. your cost of replenishing the local balance should be less than the fees you earn. Otherwise, it will soon become a loss-making situation.
+If you are not in this fortunate position, you must replenish your local balance to service the flow. You must do that on a cash-positive basis i.e. your cost of replenishing the local balance should be less than the fees you earn. Otherwise, it will soon become a loss-making situation.
