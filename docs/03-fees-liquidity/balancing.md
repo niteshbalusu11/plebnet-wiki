@@ -39,7 +39,7 @@ If there is no other route, the payment will fail and B can only send 200_000 sa
 
 To prevent such failed HTLC, which also punish your node (M) in the eyes of B (sender) because you caused them the inconvenience of trying a route where there were not enough sats on your local side, it is advised to keep your channels balanced.
 
-## Cetaris Paribus, your local and inbound liquidity is constant*
+## Ceteris Paribus, your local and inbound liquidity is constant*
 
 This could be a difficult concept to understand but unless you are sending payments (or receiving invoices), and you are not opening new channels and plebs are not opening channels into you, your total node capacity, your Local, and your Remote will remain the same. No amount of routing will change this balance (except the small amount of fees you will earn for routing).
 

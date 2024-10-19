@@ -11,7 +11,7 @@ Lightning therefore constitutes a true P2P network, in full compliance with the 
 
 We will see many exchanges in the near future that will implement Lightning: it's fast, reliable, and the capacity is increasing thanks to the Wumbo channels.
 
-My proposal is to collect the exchanges that already implemented Lightning Network or plan to do it in a simple table and keep it update.
+My proposal is to collect the exchanges that already implemented Lightning Network or plan to do it in a simple table and keep it updated.
 So, let's do it!
 
 
@@ -36,7 +36,7 @@ So, let's do it!
 [Paxful](https://paxful.com) | **YES** (SEP-2021) | :zap: | [article](https://paxful.com/blog/lighting-network-integration) | n.a. | :question: | :question: | :question:
 [BullBitcoin](https://bullbitcoin.com) | **YES** (SEP-2021) | :zap: | [article](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098) | n.a. | [Link](https://1ml.com/node/030057ffea1a1650ce716aab702c9fc29ce24659b89650eb963f2455df0194c997) bullbitcoin.com | :question: | :question:
 [Bitaroo](https://bitaroo.com.au/) | **YES** (SEP-2019) | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.a. | :question: | :broken_heart: YES | :question:
-[River Financial](https://river.com/) | **YES** (OCT-2019) | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.a. | [Link](https://ln.river.com/) ln.river.com | :broken_heart: YES | :question: | :question:
+[River Financial](https://river.com/) | **YES** (OCT-2019) | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.a. | [Link](https://rls.dev/) rls.dev | :broken_heart: YES | 0.1
 [VBTC Vietnam](https://vbtc.exchange/) | **YES** (JAN-2021) | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.a. | :question: | :broken_heart: YES | :question:
 [FixedFloat](https://fixedfloat.com/) | **YES** (FEB-2019) | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.a. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com | :green_heart: NO | :question:
 [LOFT](https://loft.trade/) | **YES** (FEB-2021) | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.a. | :question: | :green_heart: NO | :question:

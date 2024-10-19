@@ -62,7 +62,7 @@ In some other versions, the swap is executed as below:
 
 #### MEG (aka: 'trustless' dual-funded channel) - Mutually Exchanged Girth
 
-With the support for internal funding added, adding balanced channel is now a piece of cake. All you need is a willing peer on PLETNET or take a look at [lightningnetwork.plus](https://lightningnetwork.plus/swaps) to find dual-funded opening requests.
+With the support for internal funding added, adding balanced channel is now a piece of cake. All you need is a willing peer on PLEBNET or take a look at [lightningnetwork.plus](https://lightningnetwork.plus/swaps) to find dual-funded opening requests.
 
 Alex Bosworth's CLI tool, Balance of Satoshis utilizes keysend to add this functionality to LND (which does not natively support it, yet).
 
