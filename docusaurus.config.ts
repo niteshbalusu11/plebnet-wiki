@@ -50,6 +50,24 @@ const config: Config = {
   ],
 
   themeConfig: {
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'TQIMNK0NOP',
+
+      // Public API key: it is safe to commit it
+      apiKey: '92c30b71c8e5ced3d5eff5e699d19673',
+
+      indexName: 'plebnetcom',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
+      // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+      insights: true,
+    },
     colorMode: {
       defaultMode: 'dark'
     },
