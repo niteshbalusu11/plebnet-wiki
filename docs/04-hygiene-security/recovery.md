@@ -31,7 +31,7 @@ An SCB file is updated when a channel is opened or closed. Channel information i
 
 There are several ways to obtain an SCB.
 
-- Using the BoS Telegram bot (recommended): [Umbrel - Installing BoS](https://plebnet.wiki/wiki/Special:MyLanguage/Umbrel_-_Installing_BoS)
+- Using the BoS Telegram bot (recommended): [Umbrel - Installing BoS](https://web.archive.org/web/20240711203839/https://plebnet.wiki/wiki/Umbrel_-_Installing_BoS#Installing_Telegram_Bot)
 - Umbrel users: Can contact Umbrel for receiving your SCB if your node goes down.
 - Non-Umbrel users: Using ThunderHub, there is an option to download the latest backup from the tools option.
 - Using lncli: `lncli exportchanbackup`
