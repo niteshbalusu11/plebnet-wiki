@@ -44,6 +44,7 @@ This information can change and each method and service should be always be care
 - **LNBIG** - [https://lnbig.com/](https://lnbig.com/)
 - **Bitrefill** - [https://www.bitrefill.com/buy/lightning-channel/](https://www.bitrefill.com/buy/lightning-channel/)
 - **Y'alls** - [https://yalls.org/about/](https://yalls.org/about/)
+- **Megalith LSP** - [https://megalithic.me/get_a_channel](https://megalithic.me/get_a_channel) Pay a Lightning invoice and Megalith opens a channel to your node
 - **Umbrel Opening Channel Request** - [https://community.getumbrel.com/t/opening-channels-requests/66](https://community.getumbrel.com/t/opening-channels-requests/66) Umbrel Opening Channel Requests
 - **Sats4Likes** - You can offer to pay someone to open a channel to you on services like - [https://kriptode.com/satsforlikes/index.html](https://kriptode.com/satsforlikes/index.html)
 
